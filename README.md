@@ -8,3 +8,4 @@ A collection of small Python scripts for InfoSec, OSINT, and CTF challenges.
 * File Hasher (MD5 & SHA-256)
 * OSINT IP Geolocator
 * HTTP Security Header Analyzer
+* Phishing Link Unshortener
