@@ -14,6 +14,8 @@ Whether you are performing initial reconnaissance, auditing passwords, or analyz
 * **`url_unshortener.py`**: Safely analyze, expand, and inspect potentially malicious or disguised phishing links without clicking them.
 
 ### 🕸️ Network & Web Scanning
+* **`ping_sweeper.py`**: A fast, multi-threaded script to ping sweep local subnets and identify active network hosts.
+* **`subdomain_scanner.py`**: A multi-threaded reconnaissance tool that enumerates hidden subdomains for a given target domain.
 * **`dir_scanner.py`**: A fast, multi-threaded web fuzzer that discovers hidden directories and sensitive files (like `.env` or `/admin`) on target servers.
 * **`banner_grabber.py`**: A network recon tool that connects to open ports to identify running services and software versions.
 * **`header_analyzer.py`**: Connects to web servers to analyze HTTP security headers and identify missing security configurations.
