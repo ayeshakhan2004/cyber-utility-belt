@@ -19,6 +19,7 @@ Whether you are performing initial reconnaissance, auditing passwords, or analyz
 * **`dir_scanner.py`**: A fast, multi-threaded web fuzzer that discovers hidden directories and sensitive files (like `.env` or `/admin`) on target servers.
 * **`banner_grabber.py`**: A network recon tool that connects to open ports to identify running services and software versions.
 * **`header_analyzer.py`**: Connects to web servers to analyze HTTP security headers and identify missing security configurations.
+* **arp_scanner.py**: A Layer 2 discovery tool that uses ARP requests to identify stealthy, firewalled hosts on local subnets that might ignore standard ICMP pings.
 
 ### 🔐 Cryptography & Cracking
 * **`hash_cracker.py`**: A fast MD5 dictionary hash cracker built for password auditing and recovery.
