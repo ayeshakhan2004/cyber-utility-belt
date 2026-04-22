@@ -12,7 +12,7 @@ Whether you are performing initial reconnaissance, auditing passwords, or analyz
 * **`email_scraper.py`**: An OSINT tool that uses Regular Expressions to extract hidden email addresses from target webpages.
 * **`ip_geolocator.py`**: A tracking script that resolves IP addresses to their real-world geographical locations.
 * **`url_unshortener.py`**: Safely analyze, expand, and inspect potentially malicious or disguised phishing links without clicking them.
-* **metadata_extractor.py**: An OSINT utility that extracts hidden EXIF data (such as timestamps, camera models, and GPS coordinates) from image files.
+* **`metadata_extractor.py`**: An OSINT utility that extracts hidden EXIF data (such as timestamps, camera models, and GPS coordinates) from image files.
 
 ### 🕸️ Network & Web Scanning
 * **`ping_sweeper.py`**: A fast, multi-threaded script to ping sweep local subnets and identify active network hosts.
